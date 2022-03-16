@@ -1,1 +1,10 @@
-N/A yet
+You need to block 2 things from your PC.
+The extension, and the app.
+
+I do not know how to block the app but I know how to block the extension.
+
+Steps to block the extension:
+1. Download bypass.html on this repository
+2. Run the file
+3. Enter your URL you want to go to
+4. Enjoy and stay safe
